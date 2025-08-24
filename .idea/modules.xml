@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crudemjava/crudemjava.iml" filepath="$PROJECT_DIR$/crudemjava/crudemjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crudjava.iml" filepath="$PROJECT_DIR$/.idea/crudjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
