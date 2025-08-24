@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         Usuarios usuario = new Usuarios();
-        usuario.setNome("meu mentor aroldo");
+        usuario.setNome("john C");
         usuario.setIdade(32);
 
         DatabaseConnection data = null;
